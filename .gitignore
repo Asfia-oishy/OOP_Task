@@ -1,6 +1,7 @@
-.exe
-.o
-.vscode
-.cph
-.ini
-.json
+*.exe
+*.o
+*.vscode
+*.cph
+*.ini
+*.json
+*.bin
